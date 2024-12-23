@@ -1,0 +1,241 @@
+Bell
+Chatr
+Fido
+Freedom
+Koodo
+Lucky Mobile
+Public
+Rogers
+TELUS
+Virgin
+
+the Jim Corbett National Park
+
+Hide and Show
+
+<div class="active_btn" style="text-align: center;">
+<button id="btn1" class="active_phone">Bundled Pricing</button><br>
+<button id="btn2">Regular Pricing</button><br></div>
+
+
+<script>
+jQuery(document).ready(function() {
+  // Show div1 by default
+  jQuery("#div1").show();
+  jQuery("#div2").hide();
+ 
+  jQuery("#btn1").click(function() {
+	jQuery("#div1").show();
+	jQuery("#div2").hide();
+ 	jQuery(".active_btn button").removeClass("active_phone");
+	jQuery("#btn1").addClass("active_phone");
+  });
+ 
+  jQuery("#btn2").click(function() {
+	jQuery("#div1").hide();
+	jQuery("#div2").show();
+ 	jQuery(".active_btn button").removeClass("active_phone");
+ 	jQuery("#btn2").addClass("active_phone");
+  });
+});
+</script>
+
+
+Introduction and setup of react JS 
+https://react.dev/learn/start-a-new-react-project
+
+
+https://divilayoutsextended.com
+
+Slider loop
+https://codepen.io/springerkc/pen/aMxxyO
+
+Animated Images 
+https://lottiefiles.com/animation/svg?page=2
+
+Font Awesome
+https://www.elegantthemes.com/blog/tips-tricks/font-awesome-wordpress
+
+Toggle Button design 
+https://bootsnipp.com/snippets/v7x77
+
+Divi child theme
+
+https://www.elegantthemes.com/blog/divi-resources/divi-child-theme
+
+https://www.elegantthemes.com/blog/divi-resources/how-to-vertically-align-content-in-divi
+
+https://divimundo.com/en/blog/how-to-center-elements-vertically-in-divi/
+
+https://www.elegantthemes.com/blog/divi-resources/5-awesome-ways-to-add-images-videos-to-your-screen-mockups-with-divi
+
+https://codepen.io/arjun111/pen/PowmNKm
+
+
+Font Download 
+https://studio.cav.ai/uploads/fonts/
+
+
+https://marketplace.magento.com/pronko-google-enhanced-ecommerce.html#product.info.details.tech_specs
+
+https://codepen.io/rnr/pen/dMNZmx
+
+
+v2ZD5y9cVatxdbm
+
+https://codepen.io/chnikki/pen/NNZvOa
+
+https://satwaindia.com/wptest/wp-login.php
+admin_demo
+a5do80xHPa&*gsQ*Tt
+
+
+
+https://docs.octobercms.com/
+
+https://www.c-sharpcorner.com/article/integration-of-google-recaptcha-in-websites/
+
+https://measureschool.com/enhanced-ecommerce-funnels/
+https://unsplash.com/
+Floating point
+https://www.elegantthemes.com/blog/divi-resources/how-to-design-a-floating-footer-drawer-in-divi
+Angular 
+hm/post/how-to-install-bootstrap-5-in-angular-13examplettps://www.itsolutionstuff.co.html
+
+DIVI child theme
+https://www.elegantthemes.com/blog/divi-resources/divi-child-theme
+https://wallpaperaccess.com/
+
+Divi Mobile: Collapse Submenus
+https://divi.space/wordpress-and-divi-code-snippets/collapse-submenus/
+
+PreLoad and Pre connect
+https://3perf.com/blog/link-rels/
+
+https://strapi.io/integrations/angular-cms
+
+For gmail
+yourname@company.com.test-google-a.com, myname@gmail.com
+
+For Autoplay
+https://joyofwebsites.com/how-to-autoplay-a-video-in-divi-on-all-devices/
+
+Making Site Live 
+
+UPDATE wp_options SET option_value = replace(option_value, 'https://websitesupport24x7.com/reliable/', 'https://reliableautoservices.in/') WHERE option_name = 'home' OR option_name = 'siteurl';
+
+UPDATE wp_posts SET guid = replace(guid, 'https://shopcmp.ca/GSCar/', 'https://gscarwashcentre.com/');
+
+UPDATE wp_posts SET post_content = replace(post_content, 'https://shopcmp.ca/GSCar/', 'https://gscarwashcentre.com/');
+
+UPDATE wp_postmeta SET meta_value = replace(meta_value,'https://shopcmp.ca/GSCar/', 'https://gscarwashcentre.com/');
+
+
+Code for controller  
+
+<?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
+class Samsung_note10 extends CI_Controller
+{
+    function __construct()
+    {
+   	 parent::__construct();
+   	 
+    }
+    
+    
+    
+    function index()//////CUSTOMER EMPLOYE LOGIN
+    {
+    
+   	 $this->load->view('samsung_note10');    
+//    	 $this->load->view('footer');   		 
+    }
+    
+    
+}
+
+
+
+
+Norton Web search
+https://submit.norton.com/?type=URL
+
+
+Trend Macro
+https://global.sitesafety.trendmicro.coms
+
+
+ for cache setting in .hacess
+
+<IfModule mod_expires.c>     
+ExpiresActive On
+ExpiresByType text/css "access 28 days"
+ExpiresByType text/html "access 28 days"
+.ExpiresByType image/gif "access 28 days"
+ExpiresByType image/png "access 28 days"
+ExpiresByType image/jpg "access 28 days"
+ExpiresByType image/jpeg "access 28 days"
+ExpiresByType image/webp "access 28 days"
+ExpiresByType image/x-icon "access 28 days"
+ExpiresByType application/pdf "access 28 days"
+ExpiresByType application/javascript "access 28 days"
+ExpiresByType text/x-javascript "access 28 days"
+ExpiresByType application/x-shockwave-flash "access 28 days"
+ExpiresDefault "access 28 days" 
+</IfModule>
+
+
+
+14-9-22
+
+If there is issue with .click function of jquery check this link
+https://forum.jquery.com/topic/jquery-click-event-is-not-getting-triggered-in-the-mobile-browsers
+
+
+Read more read less with listing and para
+http://jsfiddle.net/praveenscience/SZLgs/
+
+
+
+Team section
+https://demo.ghafarahmed.com/team-bundles-main/
+
+Cards
+https://incredibledivi.com/card-1-10/
+
+
+
+
+
+
+How to Add Expires Headers With .htaccess on Apache Web Server
+https://kinsta.com/knowledgebase/add-expires-headers-wordpress/
+
+## EXPIRES HEADER CACHING ##
+<IfModule mod_expires.c>
+ExpiresActive On
+ExpiresByType image/jpg "access 1 year"
+ExpiresByType image/jpeg "access 1 year"
+ExpiresByType image/gif "access 1 year"
+ExpiresByType image/png "access 1 year"
+ExpiresByType image/svg "access 1 year"
+ExpiresByType text/css "access 1 month"
+ExpiresByType application/pdf "access 1 month"
+ExpiresByType application/javascript "access 1 month"
+ExpiresByType application/x-javascript "access 1 month"
+ExpiresByType application/x-shockwave-flash "access 1 month"
+ExpiresByType image/x-icon "access 1 year"
+ExpiresDefault "access 2 days"
+</IfModule>
+## EXPIRES HEADER CACHING ##
+Fonts
+https://studio.cav.ai/uploads/fonts/
+
+
+Readmore less
+https://stackoverflow.com/questions/25341429/jquery-read-more-read-less-how-to-replace-text
+
+
+Divi layouts
+https://www.divi-pixel.com/features/
+
