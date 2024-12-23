@@ -239,3 +239,83 @@ https://stackoverflow.com/questions/25341429/jquery-read-more-read-less-how-to-r
 Divi layouts
 https://www.divi-pixel.com/features/
 
+
+DIVI child theme
+https://www.elegantthemes.com/blog/divi-resources/divi-child-theme
+
+https://wallpaperaccess.com/
+Divi Mobile: Collapse Submenus
+https://divi.space/wordpress-and-divi-code-snippets/collapse-submenus/
+
+PreLoad and Pre connect
+https://3perf.com/blog/link-rels/
+
+https://strapi.io/integrations/angular-cms
+
+For gmail
+yourname@company.com.test-google-a.com, myname@gmail.com
+
+For Autoplay
+
+https://joyofwebsites.com/how-to-autoplay-a-video-in-divi-on-all-devices/
+
+Making Site Live 
+
+UPDATE wp_options SET option_value = replace(option_value, 'https://websitesupport24x7.com/reliable/', 'https://reliableautoservices.in/') WHERE option_name = 'home' OR option_name = 'siteurl';
+
+UPDATE wp_posts SET guid = replace(guid, 'https://websitesupport24x7.com/reliable/', 'https://reliableautoservices.in/');
+
+UPDATE wp_posts SET post_content = replace(post_content, 'https://websitesupport24x7.com/reliable/', 'https://reliableautoservices.in/');
+
+UPDATE wp_postmeta SET meta_value = replace(meta_value,'https://websitesupport24x7.com/reliable/', 'https://reliableautoservices.in/');
+
+
+Code for controller  
+
+<?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
+class Samsung_note10 extends CI_Controller
+{
+    function __construct()
+    {
+   	 parent::__construct();
+   	 
+    }
+    
+    
+    
+    function index()//////CUSTOMER EMPLOYE LOGIN
+    {
+    
+   	 $this->load->view('samsung_note10');    
+//    	 $this->load->view('footer');   		 
+    }
+    
+    
+}
+
+
+
+
+Norton Web search
+https://submit.norton.com/?type=URL
+
+
+Trend Macro
+https://global.sitesafety.trendmicro.coms
+	
+Wordpress  font upload isssue
+
+add
+this line in wordpress wp config file
+define('ALLOW_UNFILTERED_UPLOADS', true);
+and for stop wordpress auto updation add
+define( 'WP_AUTO_UPDATE_CORE', false );
+above
+// Added by WP Hummingbird
+/* That's all, stop editing! Happy blogging. */
+ this code
+
+
+
+
+
