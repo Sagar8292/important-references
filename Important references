@@ -316,6 +316,16 @@ above
  this code
 
 
+/******add code to header to add white scrren and load page after load full page  *********/
 
 
+<style>
+	html { visibility:hidden; }
+</style>
+
+<script>
+	jQuery(document).ready(function() {
+  document.getElementsByTagName("html")[0].style.visibility = "visible";
+});
+</script>
 
